@@ -1,0 +1,5 @@
+golang-github-nebulouslabs-errors (0.0~git20170430.98e1f05-1) unstable; urgency=medium
+
+  * Initial release (Closes: #880476)
+
+ -- Free Ekanayaka <freee@debian.org>  Wed, 01 Nov 2017 00:04:19 +0000
